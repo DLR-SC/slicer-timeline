@@ -1,5 +1,7 @@
 # DeepArc 3D Slicer Timeline extension
 
+[![DOI](https://zenodo.org/badge/472784685.svg)](https://zenodo.org/badge/latestdoi/472784685)
+
 ## Development setup
 
 ### Environment

@@ -11,3 +11,9 @@ authors:
   - given-names: Jonas Levin
     family-names: Weber
     email: Jonas.Weber@dlr.de
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.6376223
+license: MIT
+version: v1.0.0
+date-released: '2022-03-22'
